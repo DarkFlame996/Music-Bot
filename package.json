@@ -1,0 +1,9 @@
+{
+  "name": "music-bot",
+  "version": "0.0.0",
+  "description": "Music-bot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
