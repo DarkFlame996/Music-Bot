@@ -1,0 +1,3 @@
+C:\Users\sdang\source\repos\Music-bot\Music-bot\obj\Debug\Music-bot.njsproj.AssemblyReference.cache
+C:\Users\sdang\source\repos\Music-bot\Music-bot\obj\Debug\Music-bot.njsproj.CoreCompileInputs.cache
+C:\Users\sdang\source\repos\Music-bot\Music-bot\bin\Microsoft.NodejsTools.WebRole.dll
