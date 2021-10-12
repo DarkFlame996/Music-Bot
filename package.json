@@ -4,6 +4,11 @@
   "description": "Music-bot",
   "main": "app.js",
   "author": {
-    "name": ""
+    "name": "Sebastiano D'Angelo'"
+  },
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^13.2.0",
+    "winston": "^3.3.3"
   }
 }
